@@ -2,7 +2,7 @@
 
 Playing around with nestjs microservices, docker & docker-compose.
 
-# local usage
+## local usage
 
 docker-compose up --build
 
