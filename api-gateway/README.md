@@ -1,6 +1,9 @@
 # api-gateway
 
+This is our api-gateway, responsible for calling off to other services, e.g.
+
 /users for user-service
+
 /movies for movie-service
 
 ## Installation
