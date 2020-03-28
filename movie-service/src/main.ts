@@ -11,6 +11,7 @@ async function bootstrap() {
     {
       transport: Transport.TCP,
       options: {
+        host: '0.0.0.0',
         port,
       },
       logger: new Logger(),
