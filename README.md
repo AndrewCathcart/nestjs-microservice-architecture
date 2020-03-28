@@ -2,6 +2,8 @@
 
 Playing around with nestjs microservices, docker & docker-compose.
 
+# local usage
+
 docker-compose up --build
 
 localhost:3000/movies calls the movie-service
